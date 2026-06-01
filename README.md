@@ -1,16 +1,16 @@
 
 <h1 align="center"> Hi!, I'm Yash Dhumke!<a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://media.tenor.com/fYpViWgF-qgAAAAi/teagif-cute.gif" width="64px" height="64px" alt="hellokitty_sparkle"></a></h1>
-<h3 align="center">IT'24 Undergrad... A passionate developer from India <img height="30" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="34px" height="34px" alt="Moon"></h3>
+<h3 align="center">Software Engineer with 2 years of experience building scalable ERP and Healthcare applications using ASP.NET Core, React.js, Angular, and SQL Server.<img height="30" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="34px" height="34px" alt="Moon"></h3>
  
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-- 🔭 I’m currently working on **MERN & DevOps Projects**
+- 🔭 Passionate about designing **high-performance APIs, optimizing databases, and developing responsive web applications.**
 
-- 🌱 I’m currently learning **DevOps Technologies and Cloud**
+- 🌱 Building **full-stack applications and continuously exploring modern software architecture and engineering best practices.**
 
-- 👯 I’m looking to collaborate on **Web Developement**
+- 👯 Experienced in **C#, .NET, React.js, Angular, TypeScript, SQL Server, Entity Framework Core, Dapper, and Azure DevOps.**
 
 - 👨‍💻 All of my projects are available at [https://dhumke-yash.netlify.app/](https://dhumke-yash.netlify.app/)
 
