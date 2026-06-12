@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi!, I'm Yash Dhumke!<a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://media.tenor.com/fYpViWgF-qgAAAAi/teagif-cute.gif" width="64px" height="64px" alt="hellokitty_sparkle"></a></h1>
-<h3 align="center">Software Engineer with 2 years of experience building scalable ERP and Healthcare applications using ASP.NET Core, React.js, Angular, and SQL Server.<img height="30" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="34px" height="34px" alt="Moon"></h3>
+<h3 align="center">Software Engineer with 2+ years of experience building scalable ERP and Healthcare applications using ASP.NET Core, React.js, Angular, and SQL Server.<img height="30" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="34px" height="34px" alt="Moon"></h3>
  
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
